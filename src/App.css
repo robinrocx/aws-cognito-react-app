@@ -48,6 +48,7 @@ li{
 
 a{
   text-decoration: none;
+  color: inherit;
 }
 
 div{
@@ -61,4 +62,12 @@ div{
 
 button{
   margin-top: 10px;
+}
+
+#loggedin-name{
+  float: right;
+}
+
+p{
+  margin: 0;
 }
